@@ -12,6 +12,9 @@ Install the template using [thirdweb create](https://portal.thirdweb.com/cli/cre
 ```bash
   npx thirdweb create app --next
 ```
+For more info visit this google drive https://docs.google.com/document/d/1X-XUPQ6WX7jadAfJbYDLloe4QwZDsOSfcw9BUzzSflA/edit?usp=sharing
+
+
 
 # Foundry solidity smart contracts in a CrowdFunding Project
 A simple Crowdfunding smart contract written in Solidity and integrated with Foundry for development, testing, and deployment.
